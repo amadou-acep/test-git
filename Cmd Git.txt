@@ -1,0 +1,11 @@
+Configurer Git
+git config --global user.name = "Amadou"
+git config --global user.email = "amadou@acepsenegal.com"
+git config --global --list : afficher nom et email
+*****************************
+git init
+git add *
+git commit -m "envoi"
+git push -u origin master
+*****************************
+git log : voir les anciens commit
